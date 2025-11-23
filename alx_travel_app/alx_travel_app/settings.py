@@ -43,6 +43,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'rest_framework',
     'drf_yasg',
+    'django_seed',
     'listings',
     'django.contrib.admin',
     'django.contrib.auth',
